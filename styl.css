@@ -1,0 +1,57 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+}
+
+input[type=text] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 25%;
+    margin-top: 0%;
+  }
+  button {
+    width: 100px; 
+    margin: auto;
+    display: block;
+    align-items: flex-start;
+    font-size: 12px;
+
+  }
+  input[type=button] {
+      width: 100px; 
+    margin: auto;
+    display: block;
+    align-items: flex-start;
+    font-size: 12px; 
+  }
+  div{
+    width: 100px; 
+    margin: 0 auto;
+    display: block;
+    align-items: flex-start;
+    font-size: 12px; 
+  }   
+  #imagg{
+    position: absolute;
+    top: 25px;
+    right: 50px;
+    font-size: 12px;
+    }
+    #imgg{
+        position: absolute;
+        top: 25px;
+        right: -20px;
+        font-size: 12px;
+        }
+    
